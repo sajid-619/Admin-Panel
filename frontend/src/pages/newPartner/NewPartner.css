@@ -1,0 +1,39 @@
+.newPartner{
+    flex: 4;
+}
+
+.addPartnerForm{
+    margin-top: 10px;
+}
+
+.addPartnerData{
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.addPartnerData > label{
+    color: gray;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.addPartnerData > input{
+    padding: 10px;
+}
+
+.addPartnerData > select{
+    padding: 10px;
+}
+
+.addPartnerButton{
+    margin-top: 10px;
+    padding: 7px 10px;
+    border: none;
+    border-radius: 10px;
+    background-color: darkgreen;
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+}
