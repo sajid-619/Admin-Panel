@@ -1,4 +1,4 @@
-# admin-panel-backend
+# admin-panel-frontend
 Developing frontend application for admin-panel in React.
 
 # How to run
