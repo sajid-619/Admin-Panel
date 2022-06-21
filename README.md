@@ -8,4 +8,4 @@ Admin Panel APP made with the MERN stack, allows CRUD operations with the users 
 
 **Server:** Node, Express, MongoDB, Crypto-Js, Jsonwebtoken
 
-Inside the client and server folder are specific information about deployment, installation and env variables.
+Inside the backend and frontend folder are specific information about deployment, installation and env variables.
