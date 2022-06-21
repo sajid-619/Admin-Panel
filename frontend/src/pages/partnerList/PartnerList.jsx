@@ -9,7 +9,7 @@ import {
   selectPartnerState,
 } from "../../store/partnerSlice";
 import { selectUserState } from "../../store/userSlice";
-import "./ProductList.css";
+import "./PartnerList.css";
 
 const PartnerList = () => {
   const dispatch = useDispatch();
