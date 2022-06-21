@@ -1,6 +1,6 @@
 # Admin Panel - MERN Stack
 
-Admin Panel APP made with the MERN stack, allows CRUD operations with the users and products.
+Admin Panel APP made with the MERN stack, allows CRUD operations with the users and partners.
 
 ## Tech Stack
 
